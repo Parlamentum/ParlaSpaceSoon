@@ -20,7 +20,7 @@ function App() {
         <div className="max-w-3xl mx-auto text-center space-y-8">
           <div className="flex flex-col items-center justify-center mb-6">
             <img 
-              src="/logo.png"
+              src="https://github.com/Parlamentum/ParlaSpaceSoon/blob/main/Logo.png?raw=true"
               alt="ParlaSpace Logo" 
               className="w-32 h-32 mb-4"
             />
